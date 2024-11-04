@@ -1,7 +1,0 @@
-print(5+9+4)
-print(4+5)
-print(3*4)
-print("Python")
-print(0)
-print(4==3)
-print(6>5)
